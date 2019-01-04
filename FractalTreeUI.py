@@ -1,8 +1,4 @@
-# part of JSI Graphics Lesson 2016
-# LinearEquationExplorer.py
-# November 2016
-#
-# contains class definition for a sample App
+# Tarun Mandalapu 2016
 
 # import statements for all of the graphics libraries
 # there is a distinction between python 2 and python 3
